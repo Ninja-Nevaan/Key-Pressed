@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-size: cover;
+	background-color: #0093E9;
+	background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+	font-family: cursive;
+}
+#myCanvas{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4{
+	color:red!important;
+	font-family: cursive;
+}
+h1{
+	font-variant: small-caps;
+}
+div{
+	font-size: 18px;
+	color: #E25822;
+	font-family: cursive;
+}
